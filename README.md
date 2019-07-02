@@ -14,7 +14,7 @@ Recriando a home do nubank, utilizando a lib Animated do React Native
     <img width="300" src="https://user-images.githubusercontent.com/29661994/60475529-2560e500-9c4e-11e9-94ad-e12594259006.jpeg">
 </p>
 
-<iframe src="https://giphy.com/embed/S5clRUMGDiLwErrGjL" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/S5clRUMGDiLwErrGjL">via GIPHY</a></p>
+<img src="https://giphy.com/embed/S5clRUMGDiLwErrGjL" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 ## Licença
 
