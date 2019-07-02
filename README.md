@@ -1,6 +1,6 @@
 ## Descrição
 
-Recriando a home do nubank, utilizando a lib Animated do React Native
+Recriando a home do nubank, utilizando a lib Animated do **React Native**
 
 <!-- LICENSE -->
 
@@ -14,7 +14,9 @@ Recriando a home do nubank, utilizando a lib Animated do React Native
     <img width="300" src="https://user-images.githubusercontent.com/29661994/60475529-2560e500-9c4e-11e9-94ad-e12594259006.jpeg">
 </p>
 
-<img src="https://giphy.com/embed/S5clRUMGDiLwErrGjL" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<p align="center">
+    <img width="300" src="https://user-images.githubusercontent.com/29661994/60475775-60afe380-9c4f-11e9-944c-87caf79c8526.gif">
+</p>
 
 ## Licença
 
